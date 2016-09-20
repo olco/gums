@@ -1,0 +1,8 @@
+C:\Gums\Gums\Gums\bin\Debug\Gums.exe.config
+C:\Gums\Gums\Gums\bin\Debug\Gums.exe
+C:\Gums\Gums\Gums\bin\Debug\Gums.pdb
+C:\Gums\Gums\Gums\obj\Debug\Gums.Properties.Resources.resources
+C:\Gums\Gums\Gums\obj\Debug\Gums.csproj.GenerateResource.Cache
+C:\Gums\Gums\Gums\obj\Debug\Gums.exe
+C:\Gums\Gums\Gums\obj\Debug\Gums.pdb
+C:\Gums\Gums\Gums\obj\Debug\Gums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Gums\Gums\Gums\bin\Release\Gums.exe.config
+C:\Gums\Gums\Gums\bin\Release\Gums.exe
+C:\Gums\Gums\Gums\bin\Release\Gums.pdb
+C:\Gums\Gums\Gums\obj\Release\Gums.csprojResolveAssemblyReference.cache
+C:\Gums\Gums\Gums\obj\Release\Gums.Properties.Resources.resources
+C:\Gums\Gums\Gums\obj\Release\Gums.csproj.GenerateResource.Cache
+C:\Gums\Gums\Gums\obj\Release\Gums.exe
+C:\Gums\Gums\Gums\obj\Release\Gums.pdb
